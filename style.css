@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.bookInfo {
+    color: blueviolet;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.bookImg {
+    border: 5px red solid;
+}
